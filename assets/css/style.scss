@@ -1,0 +1,7 @@
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
+
+$brand-color: #FC9EFF !default;
